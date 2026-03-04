@@ -1,7 +1,5 @@
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
-markdown: kramdown
-kramdown:
-  input: GFM 
+markdown: GFM
 classes: wide
