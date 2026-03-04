@@ -84,18 +84,18 @@
 
 #### 学习材料
 
-##### 教材
+##### 1 教材
 
   1. 101计划《生物信息学》
   2. 《鸟哥的Linux私房菜－基础学习篇》
   3. 《Bioinformatics Data Skills》
 
-##### 线上材料
+##### 2 线上材料
 
   1. [Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/)
   2. [Teaching Videos](https://cloud.tsinghua.edu.cn/d/82e9fca41d634ce6b5df/?p=%2F&mode=list)
 
-#### 学习计划个人想法
+#### 3 学习计划个人想法
 
   1. 逐渐熟悉Markdown语言，尝试在课上直接使用Markdown语言记笔记
   2. 每周课后花费**4-5小时**完成**课后作业**，以及**Tutorial**内容的复习和练习
