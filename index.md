@@ -25,9 +25,9 @@
     </th>
   </tr>
   <tr>
-    <td align='center'>
+    <th align='center'>
       Week 1-4
-    </td>
+    </th>
     <td align='center'>
       基础知识
     </td>
@@ -39,9 +39,9 @@
     </td>
   </tr>
   <tr>
-    <td align='center'>
+    <th align='center'>
       Week 5-8
-    </td>
+    </th>
     <td align='center'>
       生信基本工具
     </td>
@@ -53,9 +53,9 @@
     </td>
   </tr>
   <tr>
-    <td align='center'>
+    <th align='center'>
       Week 9-12
-    </td>
+    </th>
     <td align='center'>
       生信分析实践
     </td>
@@ -67,9 +67,9 @@
     </td>
   </tr>
   <tr>
-    <td align='center'>
+    <th align='center'>
       Week 13-16
-    </td>
+    </th>
     <td align='center'>
       内容整合和拓展学习
     </td>
