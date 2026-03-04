@@ -9,7 +9,7 @@
     <th rowspan=2 width='120px'>
       时间
     </th>
-    <th rowspan=2 width='100px'>
+    <th rowspan=2 width='120px'>
       学习阶段
     </th>
     <th colspan=2>
@@ -83,6 +83,17 @@
 </table>
 
 ### 学习材料
+
+#### 教材
+
+  1. 101计划《生物信息学》
+  2. 《鸟哥的Linux私房菜－基础学习篇》
+  3. 《Bioinformatics Data Skills》
+
+#### 线上材料
+
+  1. [Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/)
+  2. [Teaching Videos](https://cloud.tsinghua.edu.cn/d/82e9fca41d634ce6b5df/?p=%2F&mode=list)
 
 ### 学习计划个人思考
 
