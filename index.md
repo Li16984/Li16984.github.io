@@ -119,13 +119,13 @@
 #### Question/Hypothesis-driven Science
 
 
-* Question $\rightarrow$ Information $\rightarrow$ Analysis $\rightarrow$ Modeling
+* Question → Information → Analysis → Modeling
 
 * 始于对于现象的一个具体的**科学问题**或**假设**，核心目标为**验证**假设或解释现象的**因果关系**
 
 #### Big Data-driven Science
 
-* Information $\rightarrow$ Analysis $\rightarrow$ Modeling $\rightarrow$ Question
+* Information → Analysis → Modeling → Question
 
 * 始于一组现成的**大规模数据集**，核心目标为**发现**数据的未知组织模式或找到数据间的**相关性**
 
