@@ -102,7 +102,7 @@
   3. 每周将代码备份至Github
   4. 本人有一定Python基础，故从第二周开始计划每周**至少2小时**自主学习并练习**Linux bash**和**R语言**
 
-## Week01 Introduction and Getting Start
+## Week 01 Introduction and Getting Start
 
 #### 课程目标：
 
