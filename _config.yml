@@ -1,6 +1,6 @@
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-achitect
+theme: jekyll-theme-architect
 markdown: kramdown
 kramdown:
   input: GFM 
