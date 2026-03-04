@@ -1,10 +1,8 @@
-layout: default
-
 # 李鹏博 生物信息学笔记 
 
 ## 学习计划
 
-### 自学计划时间表
+#### 学习计划时间表
 
 <table>
   <tr>
@@ -84,20 +82,20 @@ layout: default
   </tr>
 </table>
 
-### 学习材料
+#### 学习材料
 
-#### 教材
+##### 教材
 
   1. 101计划《生物信息学》
   2. 《鸟哥的Linux私房菜－基础学习篇》
   3. 《Bioinformatics Data Skills》
 
-#### 线上材料
+##### 线上材料
 
   1. [Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/)
   2. [Teaching Videos](https://cloud.tsinghua.edu.cn/d/82e9fca41d634ce6b5df/?p=%2F&mode=list)
 
-### 学习计划个人思考
+#### 学习计划个人想法
 
   1. 逐渐熟悉Markdown语言，尝试在课上直接使用Markdown语言记笔记
   2. 每周课后花费**4-5小时**完成**课后作业**，以及**Tutorial**内容的复习和练习
@@ -105,3 +103,19 @@ layout: default
   4. 本人有一定Python基础，故从第二周开始计划每周**至少2小时**自主学习并练习**Linux bash**和**R语言**
 
 ## Week01 Introduction and Getting Start
+
+#### 课程目标：
+
+> 我们将教授生物信息学方面的专业技能，这些技能不是单纯地运行软件的能力，而是让你们拥有**探索各种真实数据的自由**。
+
+#### 课程内容
+
+* Programming Skills
+* Basic & NGS Data Analyses
+* Machine Learning & AI
+
+### 1. Introduction
+
+
+
+### 2. Getting Start
