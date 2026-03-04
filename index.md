@@ -9,7 +9,7 @@
     <th rowspan=2 width='120px' align='center'>
       时间
     </th>
-    <th rowspan=2 width='120px' align='center'>
+    <th rowspan=2 width='140px' align='center'>
       学习阶段
     </th>
     <th colspan=2 align='center'>
@@ -17,10 +17,10 @@
     </th>
   </tr>
   <tr>
-    <th align='center'>
+    <th align='center' width='240px'>
       编程基础
     </th>
-    <th align='center'>
+    <th align='center' width='240px'>
       生物信息学分析
     </th>
   </tr>
