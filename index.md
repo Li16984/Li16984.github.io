@@ -97,6 +97,9 @@
 
 ### 学习计划个人思考
 
-
+  1. 逐渐熟悉Markdown语言，尝试在课上直接使用Markdown语言记笔记
+  2. 每周课后花费**4-5小时**完成**课后作业**，以及**Tutorial**内容的复习和练习
+  3. 每周将代码备份至Github
+  4. 本人有一定Python基础，故从第二周开始计划每周**至少2小时**自主学习并练习**Linux bash**和**R语言**
 
 ## Week01 Introduction and Getting Start
