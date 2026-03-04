@@ -116,6 +116,23 @@
 
 ### 1. Introduction
 
+#### Question/Hypothesis-driven Science
+
+
+* Question $\rightarrow$ Information $\rightarrow$ Analysis $\rightarrow$ Modeling
+
+* 始于对于现象的一个具体的**科学问题**或**假设**，核心目标为**验证**假设或解释现象的**因果关系**
+
+#### Big Data-driven Science
+
+* Information $\rightarrow$ Analysis $\rightarrow$ Modeling $\rightarrow$ Question
+
+* 始于一组现成的**大规模数据集**，核心目标为**发现**数据的未知组织模式或找到数据间的**相关性**
+
+**Data-driven范式的关键背景技术：** 大数据获取（NGS，二代测序技术）和数据分析与挖掘技术（机器学习算法）
+
+#### 算法（Algorithm）与模型（Model）的区别
+
 
 
 ### 2. Getting Start
