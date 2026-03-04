@@ -6,28 +6,28 @@
 
 <table>
   <tr>
-    <th rowspan=2 width='120px'>
+    <th rowspan=2 width='120px' align='center'>
       时间
     </th>
-    <th rowspan=2 width='120px'>
+    <th rowspan=2 width='120px' align='center'>
       学习阶段
     </th>
-    <th colspan=2>
+    <th colspan=2 align='center'>
       学习任务
     </th>
   </tr>
   <tr>
-    <th>
+    <th align='center'>
       编程基础
     </th>
-    <th>
+    <th align='center'>
       生物信息学分析
     </th>
   </tr>
   <tr>
-    <th align='center'>
+    <td align='center'>
       Week 1-4
-    </th>
+    </td>
     <td align='center'>
       基础知识
     </td>
@@ -39,9 +39,9 @@
     </td>
   </tr>
   <tr>
-    <th align='center'>
+    <td align='center'>
       Week 5-8
-    </th>
+    </td>
     <td align='center'>
       生信基本工具
     </td>
@@ -53,9 +53,9 @@
     </td>
   </tr>
   <tr>
-    <th align='center'>
+    <td align='center'>
       Week 9-12
-    </th>
+    </td>
     <td align='center'>
       生信分析实践
     </td>
@@ -67,9 +67,9 @@
     </td>
   </tr>
   <tr>
-    <th align='center'>
+    <td align='center'>
       Week 13-16
-    </th>
+    </td>
     <td align='center'>
       内容整合和拓展学习
     </td>
